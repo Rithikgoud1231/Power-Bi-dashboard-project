@@ -78,8 +78,9 @@ The R.G Synthetic Beverage Sales Dashboard helps convert raw sales data into mea
 
 Power BI dashboard file:-"https://github.com/Rithikgoud1231/Power-Bi-dashboard-project/blob/main/R.G.synthetic%20beverage.dashboard.pbix"
 
-Data :- <a href "https://github.com/Rithikgoud1231/Power-Bi-dashboard-project/blob/main/R.G.synthetic_beverage_sales_data.csv.xlsx"</a>
+Data :- <a href "https://github.com/Rithikgoud1231/Power-Bi-dashboard-project/blob/main/R.G.synthetic_beverage_sales_data.csv.xlsx"<br/>
 
-Screenshot :-<img width="1445" height="817" alt="image" src="https://github.com/user-attachments/assets/2dbed5eb-cbb4-4f9a-9b15-ceb06fcdd651" />
+Screenshot :- <img width="1445" height="817" alt="image" src="https://github.com/user-attachments/assets/71e60e44-2100-45cc-9899-e1f316148f74" />
+
 
 
